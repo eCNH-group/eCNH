@@ -1,8 +1,6 @@
 # eCNH
 eCNH group
 
-eCNH-team
-
 
 
 eCNH区块浏览器： https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
