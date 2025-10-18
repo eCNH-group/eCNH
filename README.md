@@ -32,6 +32,7 @@ https://www.orca.so/pools/BHf1yCvj6qh2E1y2JLrjesP7RRC8XjBN3FyHeq45LnBZ
 #eCNH
 #stablecoin
 
+<img width="798" height="598" alt="eCNH image20251018" src="https://github.com/user-attachments/assets/270971ae-36f1-42b6-bcab-0514812cfebd" />
 
  <br /> <br />
  # eCNH Chinese
