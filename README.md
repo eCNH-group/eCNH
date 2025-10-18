@@ -1,7 +1,40 @@
 # eCNH
 eCNH group
 
+eCNH is not just a stablecoin—it’s the foundational fuel for a global settlement network.
 
+In Southeast Asia, it powers cross-border e-commerce as on-chain RMB.
+
+In the Middle East, it bridges compliance and stablecoin infrastructure.
+
+In Europe, it enables on-chain payments and digital savings.
+
+In Africa, it supports community reserves and remittance flows.
+
+In the creative economy, it anchors copyright settlement on-chain.
+
+Stability Mechanism: Andromeda Protocol 1 eCNH ≈ 0.1403 USDC ≈ 1 CNH
+
+eCNH isn’t here to compete over technical routes—it’s here to become the settlement layer for global DEXs and on-chain economies.
+
+We welcome all DEXs, market makers, and protocol builders to integrate eCNH and co-create the global stablecoin network.
+
+Earth & Global Humanity Builds and Shares eCNH Together,
+
+eCNH Contract Address:
+7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+earth & Global Humanity Builds and Shares eCNH Together,
+https://www.orca.so/pools/BHf1yCvj6qh2E1y2JLrjesP7RRC8XjBN3FyHeq45LnBZ
+
+#eCNH
+#stablecoin
+
+
+ <br /> <br />
+ # eCNH Chinese
 
 eCNH区块浏览器： https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
